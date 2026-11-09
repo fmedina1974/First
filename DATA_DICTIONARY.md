@@ -27,6 +27,6 @@
 - expected_release_date: synthetic expected release date
 
 ## population_monthly.csv
-- month: first day of month
+- month: first day of year
 - region: reporting region
 - estimated_population: synthetic monthly population denominator

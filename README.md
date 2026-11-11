@@ -7,7 +7,7 @@ Python is one of the most commonly used dynamic languages for many large organiz
 
 ### Instructor
 
-Ryan Mitchell 
+Santiago Martinez
                             
 Senior Software Engineer
 
